@@ -57,6 +57,7 @@ processed_dataset.csv
 
 ## 📊 Output
 
+<img width="1484" height="806" alt="Image" src="https://github.com/user-attachments/assets/08d03d09-42df-4fe9-af05-fd4d57f10446" />
 
 ## 🚀 How to Run
 
